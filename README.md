@@ -7,5 +7,5 @@ Pada tutorial ini saya melakukan clone dari github SimpleWebSocket sebaga integr
 __3.2 . Add some creativities to the webclient__
 
 ![alt text](image/ss2.png)
-Saya menambahkan beberapa warna pada website yaw sehingga tidak hanya putih polos saja.
+Saya menambahkan beberapa warna pada website yew sehingga tidak hanya putih polos saja.
 
